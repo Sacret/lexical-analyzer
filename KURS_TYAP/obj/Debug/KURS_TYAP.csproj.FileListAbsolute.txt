@@ -1,0 +1,32 @@
+E:\C# & Delphi\KURS_TYAP\KURS_TYAP\bin\Debug\KURS_TYAP.exe
+E:\C# & Delphi\KURS_TYAP\KURS_TYAP\bin\Debug\KURS_TYAP.pdb
+E:\C# & Delphi\KURS_TYAP\KURS_TYAP\obj\Debug\ResolveAssemblyReference.cache
+E:\C# & Delphi\KURS_TYAP\KURS_TYAP\obj\Debug\KURS_TYAP.Form1.resources
+E:\C# & Delphi\KURS_TYAP\KURS_TYAP\obj\Debug\KURS_TYAP.Properties.Resources.resources
+E:\C# & Delphi\KURS_TYAP\KURS_TYAP\obj\Debug\KURS_TYAP.csproj.GenerateResource.Cache
+E:\C# & Delphi\KURS_TYAP\KURS_TYAP\obj\Debug\KURS_TYAP.exe
+E:\C# & Delphi\KURS_TYAP\KURS_TYAP\obj\Debug\KURS_TYAP.pdb
+E:\KURS_TYAP\KURS_TYAP\obj\Debug\KURS_TYAP.exe
+E:\KURS_TYAP\KURS_TYAP\obj\Debug\KURS_TYAP.pdb
+E:\KURS_TYAP\KURS_TYAP\bin\Debug\KURS_TYAP.exe
+E:\KURS_TYAP\KURS_TYAP\bin\Debug\KURS_TYAP.pdb
+E:\KURS_TYAP\KURS_TYAP\obj\Debug\ResolveAssemblyReference.cache
+E:\KURS_TYAP\KURS_TYAP\obj\Debug\KURS_TYAP.Form1.resources
+E:\KURS_TYAP\KURS_TYAP\obj\Debug\KURS_TYAP.Properties.Resources.resources
+E:\KURS_TYAP\KURS_TYAP\obj\Debug\KURS_TYAP.csproj.GenerateResource.Cache
+C:\Documents and Settings\Настя\УЧЁБА =)))\4 курс\1 семестр\Теория языков\Курсач\KURS_TYAP\KURS_TYAP\obj\Debug\KURS_TYAP.exe
+C:\Documents and Settings\Настя\УЧЁБА =)))\4 курс\1 семестр\Теория языков\Курсач\KURS_TYAP\KURS_TYAP\obj\Debug\KURS_TYAP.pdb
+C:\Documents and Settings\Настя\УЧЁБА =)))\4 курс\1 семестр\Теория языков\Курсач\KURS_TYAP\KURS_TYAP\bin\Debug\KURS_TYAP.exe
+C:\Documents and Settings\Настя\УЧЁБА =)))\4 курс\1 семестр\Теория языков\Курсач\KURS_TYAP\KURS_TYAP\bin\Debug\KURS_TYAP.pdb
+C:\Documents and Settings\Настя\УЧЁБА =)))\4 курс\1 семестр\Теория языков\Курсач\KURS_TYAP\KURS_TYAP\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Настя\УЧЁБА =)))\4 курс\1 семестр\Теория языков\Курсач\KURS_TYAP\KURS_TYAP\obj\Debug\KURS_TYAP.Form1.resources
+C:\Documents and Settings\Настя\УЧЁБА =)))\4 курс\1 семестр\Теория языков\Курсач\KURS_TYAP\KURS_TYAP\obj\Debug\KURS_TYAP.Properties.Resources.resources
+C:\Documents and Settings\Настя\УЧЁБА =)))\4 курс\1 семестр\Теория языков\Курсач\KURS_TYAP\KURS_TYAP\obj\Debug\KURS_TYAP.csproj.GenerateResource.Cache
+E:\C# & Delphi\Программки^^\KURS_TYAP\KURS_TYAP\obj\Debug\KURS_TYAP.exe
+E:\C# & Delphi\Программки^^\KURS_TYAP\KURS_TYAP\obj\Debug\KURS_TYAP.pdb
+E:\C# & Delphi\Программки^^\KURS_TYAP\KURS_TYAP\obj\Debug\ResolveAssemblyReference.cache
+E:\C# & Delphi\Программки^^\KURS_TYAP\KURS_TYAP\obj\Debug\KURS_TYAP.Form1.resources
+E:\C# & Delphi\Программки^^\KURS_TYAP\KURS_TYAP\obj\Debug\KURS_TYAP.Properties.Resources.resources
+E:\C# & Delphi\Программки^^\KURS_TYAP\KURS_TYAP\obj\Debug\KURS_TYAP.csproj.GenerateResource.Cache
+E:\C# & Delphi\Программки^^\KURS_TYAP\KURS_TYAP\bin\Debug\KURS_TYAP.exe
+E:\C# & Delphi\Программки^^\KURS_TYAP\KURS_TYAP\bin\Debug\KURS_TYAP.pdb
